@@ -1,5 +1,7 @@
 # react-tic-tac-toe
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alexkcollier/react-tic-tac-toe.svg)](https://greenkeeper.io/)
+
 Now I can play tic-tac-toe.
 
 ```sh
